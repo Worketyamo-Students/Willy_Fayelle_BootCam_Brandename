@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: var(--FontSizeDefault);
+}
+
+body{
+    width:100vw ;
+    overflow-x: hidden;
+    height: 100%;
+    background: var(--Background);
+}
